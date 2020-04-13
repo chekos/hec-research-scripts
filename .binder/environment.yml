@@ -1,0 +1,7 @@
+name: research-scripts
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - jupyter-server-proxy
+  - code-server
