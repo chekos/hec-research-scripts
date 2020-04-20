@@ -7,7 +7,7 @@ jupyter labextension install @jupyterlab/server-proxy
 jupyter lab build
 
 code-server --install-extension ms-python.python
-code-server --install-extensino trallard.pitaya-smoothie
+code-server --install-extension trallard.pitaya-smoothie
 
 
 # Install the VS code proxy
