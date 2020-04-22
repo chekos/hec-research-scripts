@@ -8,7 +8,7 @@ jupyter labextension install @jupyterlab/server-proxy
 jupyter lab build
 
 # Download and install VS Code server
-wget -q -O code-server.tar.gz https://github.com/cdr/code-server/releases/download/${CODE_SERVER_VERSION}/code-server${CODE_SERVER_VERSION}-linux-x86_64.tar.gz
+wget -q -O code-server.tar.gz https://github.com/cdr/code-server/releases/download/${CODE_SERVER_VERSION}/code-server-${CODE_SERVER_VERSION}-linux-x86_64.tar.gz
 mkdir -p ~/.local/bin
 tar -xvf code-server.tar.gz -C ~/.local/bin --strip-components=1
 rm -rf code-server.tar.gz
