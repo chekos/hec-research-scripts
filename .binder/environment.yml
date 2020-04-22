@@ -4,4 +4,4 @@ channels:
 dependencies:
   - pandas
   - jupyter-server-proxy
-  # - code-server
+  - code-server
