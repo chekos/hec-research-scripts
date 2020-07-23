@@ -9,5 +9,6 @@
         "**/.yarn": true,
         "**/jupyter_vscode_proxy.egg-info": true
     },
-    "python.pythonPath": "/Users/ssanchez/opt/anaconda3/envs/data/bin/python"
+    "python.pythonPath": "/Users/ssanchez/opt/anaconda3/envs/data/bin/python",
+    "workbench.colorTheme": "Pitaya smoothie"
 }
